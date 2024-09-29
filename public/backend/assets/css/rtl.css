@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');*{
+    font-family: 'Cairo', sans-serif;
+}
+
+
+.light-style .swal2-modal.swal2-popup{
+    font-family: 'Cairo', sans-serif;
+}
+
